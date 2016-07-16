@@ -6,9 +6,9 @@ color:
   saturation: 0.2736601368524134
   rhythmicContrast: 0.9692235896363854
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 name: Vapour Rooms
