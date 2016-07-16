@@ -1,0 +1,14 @@
+layout_spectrum: 0.976473621558398
+typography_spectrum: 0.8103232993744314
+color:
+  brandStrength: 0.3020627957303077
+  lightness: 0.14350408408790827
+  saturation: 0.2736601368524134
+  rhythmicContrast: 0.9692235896363854
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: Vapour Rooms
